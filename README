@@ -1,1 +1,10 @@
+After updating from older Magento 2 version to Magento 2.2:
+
+1 exception(s):
+Exception #0 (InvalidArgumentException): Unable to unserialize value.
+
+Using this extensions will definitely unserialize the old values and serializes them back using Json. Let me know through commenting if you stuck somewhere and need help regarding this code. I’ll be glad to help.
+
+
+Code from:
 https://magento.stackexchange.com/questions/194010/magento-2-2-unable-to-unserialize-value
