@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<!--
+  ~ Copyright (c) 2018. Magextensions.io - Martin Hooijer. All Rights reserved.
+  ~ Magextensions License (https://www.magextensions.io/license/)
+  -->
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:framework:ObjectManager/etc/config.xsd">
+  <preference for="Magento\Framework\Serialize\Serializer\Json" type="Magextensionsio\JsonFix\Serialize\Serializer\Json" />
+</config>
+
